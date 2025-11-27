@@ -34,7 +34,7 @@ const hariKishan = {
 - 🔥 **2+ years** building enterprise-grade solutions at SAP Labs
 - 🤖 Working on **SAP Joule** - SAP's AI copilot for enterprise customers
 - 💡 Built **GenAI-powered microservices** with RAG for contract management
-- 🏆 **SAP Innovation Days** winner - Developed MCP server for Joule AI capabilities
+- 🏆 **SAP Innovation Days** finalist - Developed MCP server for Joule AI capabilities
 - 📊 Created internal tools powering **1,000+ chatbots** and **10,000+ queries**
 - 🎓 IIT Roorkee alumnus with strong foundation in system design
 
